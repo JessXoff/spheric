@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :spheric, Spheric.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "Samgordo11",
   hostname: "localhost",
   database: "spheric_dev",
   stacktrace: true,
